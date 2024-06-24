@@ -1,0 +1,18 @@
+let times = [
+    { nome: "Esporte Clube Santo André", ranking: 1100, forca: 0, bairro: "Jardim Santo André" },
+    { nome: "Clube Atlético Aramaçan", ranking: 1200, forca: 0, bairro: "Vila América" },
+    { nome: "Santo André Futebol Clube", ranking: 1300, forca: 0, bairro: "Jardim Santo André" },
+    { nome: "Colorado Esporte Clube", ranking: 1450,forca: 0, bairro: "Vila América" },
+    { nome: "São Bernardo Futebol Clube", ranking: 1450, forca: 0, bairro: "Centro" },
+    { nome: "Esporte Clube São Bernardo", ranking:1235, forca: 0, bairro: "Vila Gonçalves" },
+    { nome: "Palestra de São Bernardo", ranking: 1310,forca: 0, bairro: "Vila Gonçalves" },
+    { nome: "União São Bernardo Futebol Clube", ranking:  1680, forca: 0, bairro: "Centro" },
+    { nome: "Água Santa", ranking: 2000, forca: 0, bairro: "Jardim Inamar" },
+    { nome: "Diadema Esporte Clube", ranking: 1900, forca: 0, bairro: "Jardim Ruyce" },
+    { nome: "Clube Atlético Diadema", ranking: 1670, forca: 0, bairro: "Centro" },
+    { nome: "Esporte Clube Primavera", ranking: 1200, forca: 0, bairro: "Eldorado" },
+   {nome: "Associação Atlética São Bento", ranking: 2000, forca: 0, bairro: " Bairro Fundação" },
+    { nome: "Grêmio Esportivo Jardim São Caetano", ranking: 1900, forca: 0, bairro: "Bairro Jardim São Caetano" },
+    { nome: "São Caetano Esporte Clube", ranking: 1670, forca: 0, bairro: "Bairro Santa Paula" },
+    { nome: "Clube Atlético Central", ranking: 1200, forca: 0, bairro: "Bairro Santa Maria" },
+];
